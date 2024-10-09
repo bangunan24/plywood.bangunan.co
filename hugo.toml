@@ -111,14 +111,14 @@ paginate = 6
   name = "{Andi|Bayu|Fajar|Hendra|Dian|Rizky|Yoga|Yudi|Ari|Gani}"
   message = "{Saya {sangat puas|senang|terkesan} dengan plywood dari plywood.bangunan.co. Kualitasnya {sangat baik|luar biasa|berkualitas tinggi} dan {tahan lama|awet|kuat} untuk proyek furniture saya.|Plywood dari plywood.bangunan.co {sangat berkualitas|kuat} dan {tahan lama|awet} untuk proyek furniture yang saya kerjakan.}"
   response = "{Senang mendengar Anda puas dengan {plywood|produk} kami. Terima kasih atas {kepercayaannya|pilihannya|dukungan Anda}!|Kami {bahagia|senang|gembira} Anda puas dengan layanan dan produk kami. Terima kasih atas {kepercayaannya|dukungan Anda}!}"
-  rating = 4.9
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar5.png"
   name = "{Rina|Siti|Dewi|Lina|Ayu|Fitri|Sari|Diah|Nur|Maya}"
   message = "{Pelayanan plywood.bangunan.co {sangat memuaskan|luar biasa|baik sekali}. Produk triplek yang {saya beli|dikirim} {berkualitas tinggi|bermutu|premium} dan {sesuai dengan harapan|memenuhi ekspektasi|sesuai standar}.|Saya sangat puas dengan {produk|layanan} plywood.bangunan.co. Triplek yang {saya beli|dikirim} {berkualitas tinggi|premium|bermutu} dan {sesuai harapan|memenuhi ekspektasi|sesuai standar}.}"
   response = "{Terima kasih! Kami senang dapat {membantu|mewujudkan|melayani} proyek furniture Anda dengan {produk|triplek} terbaik.|Kami menghargai {ulasan|masukan} Anda. Terima kasih telah {memilih|mempercayai|menggunakan} produk kami!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar6.png"
