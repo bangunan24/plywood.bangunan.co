@@ -1,55 +1,53 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Agus
+    name: Samsul
     message: >-
-      Triplek dari plywood.bangunan.co kuat dan cocok untuk pembuatan rumah
-      saya.
+      Saya membeli triplek dari plywood.bangunan.co untuk pembuatan furniture
+      rumah saya, dan hasilnya sangat memuaskan. Kualitas produk premium dan
+      tahan lama.
     response: >-
-      Kami sangat menghargai kepercayaan Anda. Senang dapat berkontribusi dalam
-      proyek Anda!
+      Kami berterima kasih atas kepercayaan Anda. Senang dapat berkontribusi
+      dalam proyek Anda!
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Sari
+    name: Rina
     message: >-
-      Saya terbantu oleh plywood.bangunan.co dalam memilih produk triplek untuk
-      proyek furniture rumah saya. Produknya berkualitas dan sesuai spesifikasi
-      yang dibutuhkan.
+      plywood.bangunan.co sangat membantu dalam memilih triplek untuk rumah
+      saya. Produk yang saya beli tinggi dan sesuai dengan kebutuhan saya.
     response: >-
-      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
+      Kami sangat menghargai ulasan Anda. Bahagia mengetahui bahwa Anda puas
       dengan triplek dari kami.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Bambang
+    name: Bayu
     message: >-
-      Plywood dari plywood.bangunan.co kuat dan ideal untuk proyek furniture
-      saya. Pengiriman dan pembeliannya lancar.
+      Plywood dari plywood.bangunan.co kuat dan sesuai untuk proyek furniture
+      saya. Pengiriman dan pembeliannya efisien.
     response: >-
-      Kami apresiasi ulasan Anda. Terima kasih atas pilihan Anda menggunakan
-      produk kami!
+      Terima kasih! Kami berkomitmen untuk menyediakan plywood berkualitas
+      dengan layanan terbaik.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Yudi
+    name: Andi
     message: >-
-      Plywood dari plywood.bangunan.co kuat dan tahan lama untuk proyek
-      furniture yang saya kerjakan.
+      Plywood dari plywood.bangunan.co kuat dan awet untuk proyek furniture yang
+      saya kerjakan.
     response: >-
-      Senang mendengar Anda puas dengan produk kami. Terima kasih atas dukungan
-      Anda!
+      Kami bahagia Anda puas dengan layanan dan produk kami. Terima kasih atas
+      kepercayaannya!
     rating: 4
   - avatar: /images/admin/avatar5.png
     name: Siti
     message: >-
-      Saya sangat puas dengan layanan plywood.bangunan.co. Triplek yang saya
-      beli berkualitas tinggi dan memenuhi ekspektasi.
-    response: >-
-      Terima kasih! Kami senang dapat membantu proyek furniture Anda dengan
-      triplek terbaik.
+      Pelayanan plywood.bangunan.co baik sekali. Produk triplek yang dikirim
+      berkualitas tinggi dan memenuhi ekspektasi.
+    response: Kami menghargai ulasan Anda. Terima kasih telah menggunakan produk kami!
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Wawan
+    name: Agus
     message: >-
       Saya puas dengan produk plywood.bangunan.co untuk proyek furniture rumah
-      saya. Pengirimannya tepat waktu dan aman.
+      saya. Pengirimannya tepat waktu dan sesuai harapan.
     response: >-
       Terima kasih telah mempercayai produk kami. Kami gembira Anda puas dengan
       hasilnya.
